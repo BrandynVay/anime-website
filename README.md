@@ -1,1 +1,1 @@
-# anime-website
+# Anime Website
